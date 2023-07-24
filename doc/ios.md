@@ -8,4 +8,5 @@ Steps to build and publish an app for iOS on the Apple App Store.
 - [Handling app asking not to track](https://support.apple.com/en-us/HT212025)
   - Maybe this library for godot: https://github.com/funseek/godot-ios-att
   - or this one: https://github.com/DrMoriarty/godot-ios-att
+- site for generating privacy policy: https://letsmakeagame.net/game-privacy-policy-generator/
 
